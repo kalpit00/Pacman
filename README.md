@@ -1,6 +1,6 @@
-# Artificial Intelligence Course Projects
+# Pacman with Artificial Intelligence
 
-This repository contains implementations of various fundamental Artificial Intelligence concepts and algorithms, primarily demonstrated through the Pacman game environment developed at UC Berkeley.
+This repository contains implementations of various fundamental Artificial Intelligence concepts and algorithms, primarily demonstrated through a Pacman game environment.
 
 ## Overview
 
@@ -23,7 +23,7 @@ The repository is organized into multiple projects, each focusing on different a
 ## Getting Started
 
 ### Prerequisites
-- Python 3.x
+- Python 3
 - No additional dependencies required
 
 ### Running the Projects
